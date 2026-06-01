@@ -23,7 +23,27 @@ The data was sourced from Excel, loaded into SQL Server, transformed using Power
 - Power BI
 - Power Query
 
+x
+
 ---
+## Dashboard Insights
+
+### Policy Performance
+
+Travel Insurance generated the highest premium revenue among all policy categories.
+
+### Claims Analysis
+
+Adults contributed the highest claim amount compared to other age groups.
+
+### Policy Monitoring
+
+Inactive policies represented a significant portion of the overall policy portfolio.
+
+### Business Value
+
+The dashboard enables insurance stakeholders to monitor policy performance, claims activity, customer demographics, and revenue trends through a centralized reporting solution.
+
 
 ## Project Workflow
 
